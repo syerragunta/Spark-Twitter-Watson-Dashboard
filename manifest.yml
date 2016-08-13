@@ -8,8 +8,7 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  host: spark-twitter-dashboard
-  random-route: true
+  host: spark-twitter-dashboard99
   disk_quota: 1024M
   command: node server.js
   path: .
